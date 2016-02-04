@@ -1,0 +1,25 @@
+{
+  "name": "leaflet-canvas-layer",
+  "authors": [
+    "CartoDB <support@cartodb.com>"
+  ],
+  "description": "Canvas overlay layer for Leaflet.js",
+  "main": "leaflet_canvas_layer.js",
+  "moduleType": [],
+  "keywords": [
+    "leaflet",
+    "canvas",
+    "layer",
+    "overlay"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/maxmuermann/leaflet-canvas-layer",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
