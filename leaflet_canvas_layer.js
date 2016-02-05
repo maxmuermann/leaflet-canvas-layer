@@ -3,7 +3,7 @@ if(typeof(L) !== 'undefined') {
  * full canvas layer implementation for Leaflet
  */
 
-L.CanvasLayer = L.Class.extend({
+L.CanvasLayer = L.Layer.extend({
 
   includes: [L.Mixin.Events, L.Mixin.TileLoader],
 
